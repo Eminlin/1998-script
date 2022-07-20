@@ -1,19 +1,19 @@
-# 1990
+# 1998
 
-Make your GitHub history back to 1990.
+Make your GitHub history back to 1998.
 
 ![image](https://user-images.githubusercontent.com/11247099/89427797-38f24f80-d76e-11ea-84fa-ab5642751792.png)
 
 ## Travel Back
 
-[Create a new repo](https://github.com/new) named `1990` on GitHub.
+[Create a new repo](https://github.com/new) named `1998` on GitHub.
 
 [Generate a personal access token](https://github.com/settings/tokens/new) on GitHub and copy it.
 
 Run the following script
 
 ```bash
-$ sh -c "$(curl -fsSL https://raw.github.com/antfu/1990-script/master/index.sh)"
+$ sh -c "$(curl -fsSL https://raw.github.com/eminlin/1998-script/master/index.sh)"
 ```
 
 Enter you GitHub username and access token and then you are done :)
